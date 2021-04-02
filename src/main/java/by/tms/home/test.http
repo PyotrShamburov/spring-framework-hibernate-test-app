@@ -1,0 +1,3 @@
+POST localhost:8080/user?username=pyotr&password=12345
+Content-Type: application/x-www-form-urlencoded
+###
